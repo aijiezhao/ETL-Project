@@ -28,7 +28,7 @@
 https://worldpopulationreview.com/state-rankings/state-densities
 * Obesity:
 https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7/data
-* Covi-D-19: 
+* Covid-19: 
 https://www.kff.org/other/state-indicator/confirmed-covid-19-cases-and-deaths/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
 ​
 ​
