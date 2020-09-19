@@ -18,7 +18,7 @@
 ​
 ### Data 
 ***In order to gather data needed for our project we used 3 different datasets from Kaggle which lead us to the CDC website to gather additional data. The data in the three files included the following information:***
-* Covi-D-19 
+* Covid-19 
 * Obesity 
 * Population Density
 ​
