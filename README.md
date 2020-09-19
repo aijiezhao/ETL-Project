@@ -31,6 +31,9 @@ https://chronicdata.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Ph
 * Covid-19: 
 https://www.kff.org/other/state-indicator/confirmed-covid-19-cases-and-deaths/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
 ​
+### Instructions for How to do Project
+* There are two main steps that are needed in order to ensure the code files will run correctly. The first step is to create a DataBase call ETL_Project in Postgressql using the schema etl_project.eql file. 
+  you will then need to make sure that you have all of the raw data files in the same location as the Jupyter Notebook files. They are in CSV format. Once you have read the CSV files in you will need to drop any columns that are not needed and rename the columns for the project to match the names of the Postgressql column names. You should then be able to follow the code and run it with no issues. The following libraries that you will need are pandas, sqlalchemy, and psycopg2.
 ​
 ### Transformation
 ​
