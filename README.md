@@ -7,6 +7,7 @@
 * Jon Bendel
 * Franklin Truong
 ​
+&nbsp;
 ​
 **Tasks:**
 * Pulling original data requests and merging data
@@ -22,6 +23,7 @@
 * Obesity 
 * Population Density
 ​
+&nbsp;
 ​
 **Sources:**
 * Population Density: 
