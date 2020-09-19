@@ -5,8 +5,9 @@
 * Zhao Aijie
 * Daniel Carter
 * Jon Bendel
-* Franklin Truong  
+* Franklin Truong
 ​
+  
 ​
 **Tasks:**
 * Pulling original data requests and merging data
@@ -20,8 +21,9 @@
 ***In order to gather data needed for our project we used 3 different datasets from Kaggle which lead us to the CDC website to gather additional data. The data in the three files included the following information:***
 * Covid-19 
 * Obesity 
-* Population Density  
+* Population Density
 ​
+  
 ​
 **Sources:**
 * Population Density: 
